@@ -15,7 +15,7 @@
 }
 
 body {
-  background-color: var(--AlmostWhite);
+  background-color: #fff;
 }
 
 /* NAVBAR */
@@ -54,11 +54,12 @@ nav {
   display: block;
 }
 
-/* todo make the same for mobile */
+
 .dropdown_menu {
   position: absolute;
   list-style: none;
   background: #fff;
+  box-shadow: 0px 0px 16px rgb(0 0 0 / 25%);
   padding: 0 15px;
   padding-top: 15px;
   display: none;
