@@ -14,9 +14,9 @@
 - Frameworks
 - Technologies used
 
-## Live Demo (if available)
+## Live Demo 
 
-[Live Demo Link](https://livedemo.com)
+A live verssion of website can be seen [here](https://ishpaul777.github.io/IntroSecton-With-Dropdown-Links/)
 
 
 ## Overview
