@@ -170,6 +170,7 @@ nav {
   position: static;
   background: transparent;
   display: none;
+  box-shadow: none;
 }
 
 .dropdown_menu.mobile.active {
