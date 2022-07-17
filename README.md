@@ -1,8 +1,7 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
 
-> Description the project.
+> This is a solution to the [Intro section with dropdown navigation challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 
 ## Built With
@@ -11,46 +10,34 @@
 - Frameworks
 - Technologies used
 
+### Screenshot
+
+![](./design/active-states.jpg)
+
 ## Live Demo (if available)
 
 [Live Demo Link](https://livedemo.com)
 
 
-## Getting Started
+## Overview
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+### The challenge
 
+Users should be able to:
 
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+- View the relevant dropdown menus on desktop and mobile when interacting with the navigation links
+- View the optimal layout for the content depending on their device's screen size
+- See hover states for all interactive elements on the page
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Ishpaul Singh**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Github - [@ishpaul777](https://github.com/ishpaul777)
+- Twitter - [@ishpaul777](https://twitter.com/ishpaul777)
+- Linkedin - [Ishpaul Singh](https://www.linkedin.com/in/ishpaul-singh-264590226/)
 
 ## 🤝 Contributing
 
@@ -64,10 +51,4 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+-  Frontend Mentor challenges help you improve your coding skills by building realistic projects.  
